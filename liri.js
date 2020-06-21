@@ -8,7 +8,7 @@ var fs = require("fs");
 
 var spotify = new spotify(keys.spotify);
 
-
+//fs package function
 fs.readFile("random.txt", "utf8", function(error, data) {
   if (error) {
     return console.log(error);
