@@ -18,10 +18,15 @@
   "homepage": "https://github.com/KATHERINERSL/liri-node-app#readme",
   "dependencies": {
     "axios": "^0.19.2",
+    "bandsintown-events": "^1.0.4",
     "dotenv": "^8.2.0",
     "fs": "0.0.1-security",
+    "inquire": "^0.4.8",
+    "inquirer": "^7.2.0",
     "moment": "^2.27.0",
     "node-spotify-api": "^1.1.1",
-    "require": "^2.4.20"
+    "request": "^2.88.2",
+    "require": "^2.4.20",
+    "spotify": "^0.3.0"
   }
 }

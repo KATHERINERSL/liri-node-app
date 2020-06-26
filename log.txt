@@ -1,0 +1,323 @@
+--------------------------------------------------
+[06/25/2020] concert-this bonjovi
+--------------------------------------------------
+Venue: American Airlines Center
+Location: Dallas, TX, United States
+Date of Event: 06/25/2020
+
+Venue: BOK Center
+Location: Tulsa, OK, United States
+Date of Event: 06/26/2020
+
+Venue: Scotiabank Arena
+Location: Toronto, ON, Canada
+Date of Event: 07/10/2020
+
+Venue: Bell Centre
+Location: Montreal, QC, Canada
+Date of Event: 07/11/2020
+
+Venue: Prudential Center
+Location: Newark, NJ, United States
+Date of Event: 07/14/2020
+
+Venue: TD Garden
+Location: Boston, MA, United States
+Date of Event: 07/16/2020
+
+Venue: Little Caesers Arena
+Location: Detroit, MI, United States
+Date of Event: 07/19/2020
+
+Venue: United Center
+Location: Chicago, IL, United States
+Date of Event: 07/21/2020
+
+Venue: Enterprise Center
+Location: St Louis, MO, United States
+Date of Event: 07/23/2020
+
+Venue: Capital One Arena
+Location: Washington, D.c., DC, United States
+Date of Event: 07/25/2020
+
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date of Event: 07/27/2020
+
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date of Event: 07/28/2020
+
+
+--------------------------------------------------
+[06/25/2020] movie-this jaws
+--------------------------------------------------
+Title: Jaws
+Year: 1975
+IMDB Rating: 8.0/10
+Rotten Tomatoes Rating: 98%
+Country: USA
+Language: English
+Plot: When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
+Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+
+--------------------------------------------------
+[06/25/2020] spotify-this-song daisies
+--------------------------------------------------
+Artist: Katy Perry
+Song Name: Daisies
+Preview Link: null
+Album: Daisies
+
+Artists: Katy Perry, Oliver Heldens
+Song Name: Daisies
+Preview Link: null
+Album: Daisies (Oliver Heldens Remix)
+
+Artists: Katy Perry, MK
+Song Name: Daisies
+Preview Link: null
+Album: Daisies (MK Remix)
+
+Artist: White Reaper
+Song Name: Daisies
+Preview Link: https://p.scdn.co/mp3-preview/bf032e42ea97de24c80d8de9a31351a32b57f123?cid=edb57c3a549e479c9a60b6c179787be9
+Album: The World's Best American Band
+
+Artist: Covey
+Song Name: Daisies
+Preview Link: https://p.scdn.co/mp3-preview/2e7f3d3ff6d4fa70d08b5bb522998ae09b98518f?cid=edb57c3a549e479c9a60b6c179787be9
+Album: Bows
+
+
+--------------------------------------------------
+[06/25/2020] concert-this the beatles
+--------------------------------------------------
+
+--------------------------------------------------
+[06/25/2020] concert-this bonjovi
+--------------------------------------------------
+Venue: BOK Center
+Location: Tulsa, OK, United States
+Date of Event: 06/26/2020
+
+Venue: Scotiabank Arena
+Location: Toronto, ON, Canada
+Date of Event: 07/10/2020
+
+Venue: Bell Centre
+Location: Montreal, QC, Canada
+Date of Event: 07/11/2020
+
+Venue: Prudential Center
+Location: Newark, NJ, United States
+Date of Event: 07/14/2020
+
+Venue: TD Garden
+Location: Boston, MA, United States
+Date of Event: 07/16/2020
+
+Venue: Little Caesers Arena
+Location: Detroit, MI, United States
+Date of Event: 07/19/2020
+
+Venue: United Center
+Location: Chicago, IL, United States
+Date of Event: 07/21/2020
+
+Venue: Enterprise Center
+Location: St Louis, MO, United States
+Date of Event: 07/23/2020
+
+Venue: Capital One Arena
+Location: Washington, D.c., DC, United States
+Date of Event: 07/25/2020
+
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date of Event: 07/27/2020
+
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date of Event: 07/28/2020
+
+
+--------------------------------------------------
+[06/25/2020] movie-this jaws
+--------------------------------------------------
+Title: Jaws
+Year: 1975
+IMDB Rating: 8.0/10
+Rotten Tomatoes Rating: 98%
+Country: USA
+Language: English
+Plot: When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
+Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+
+--------------------------------------------------
+[06/25/2020] spotify-this-song hamilton
+--------------------------------------------------
+Artists: Leslie Odom Jr., Anthony Ramos, Daveed Diggs, Okieriete Onaodowan, Lin-Manuel Miranda, Phillipa Soo, Original Broadway Cast of Hamilton
+Song Name: Alexander Hamilton
+Preview Link: https://p.scdn.co/mp3-preview/fe72369289ecf23c120df5a5c4792dbedfed867a?cid=edb57c3a549e479c9a60b6c179787be9
+Album: Hamilton (Original Broadway Cast Recording)
+
+Artist: Ducktails
+Song Name: Hamilton Road
+Preview Link: https://p.scdn.co/mp3-preview/8801d090a77e90612d27b6d0e3cebd00b370094e?cid=edb57c3a549e479c9a60b6c179787be9
+Album: III: Arcade Dynamics
+
+Artists: Hamilton Leithauser, Rostam
+Song Name: A 1000 Times
+Preview Link: https://p.scdn.co/mp3-preview/06e5462fd5a3a22ac5ddf4c71cb33837ec96b796?cid=edb57c3a549e479c9a60b6c179787be9
+Album: I Had a Dream That You Were Mine
+
+Artist: Hamilton, Joe Frank & Reynolds
+Song Name: Don't Pull Your Love Out
+Preview Link: null
+Album: Hamilton, Joe Frank & Reynolds
+
+Artists: Hamilton Leithauser, Rostam
+Song Name: In a Black Out
+Preview Link: https://p.scdn.co/mp3-preview/7fdc27ba6ded3086c088c9c4d79a080ea43aad37?cid=edb57c3a549e479c9a60b6c179787be9
+Album: I Had a Dream That You Were Mine
+
+
+--------------------------------------------------
+[06/25/2020] do-what-it-says  "I Want It That Way"
+
+--------------------------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=edb57c3a549e479c9a60b6c179787be9
+Album: Millennium
+
+Artist: Mick Jensen
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=edb57c3a549e479c9a60b6c179787be9
+Album: I Want It That Way
+
+Artist: Anthem Lights
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=edb57c3a549e479c9a60b6c179787be9
+Album: Covers Part IV
+
+Artist: Tyler and Mark
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=edb57c3a549e479c9a60b6c179787be9
+Album: Beautiful Dreams
+
+Artist: Dynamite Boy
+Song Name: I Want It That Way
+Preview Link: null
+Album: Punk Goes Pop
+
+
+--------------------------------------------------
+[06/25/2020] do-what-it-says  "baby blue"
+
+--------------------------------------------------
+Artists: Action Bronson, Chance the Rapper
+Song Name: Baby Blue (feat. Chance the Rapper)
+Preview Link: https://p.scdn.co/mp3-preview/521fa021bd5d37bd0f1e2be7165ad5edda15bf2b?cid=edb57c3a549e479c9a60b6c179787be9
+Album: Mr. Wonderful
+
+Artist: Rence
+Song Name: Baby Blue
+Preview Link: https://p.scdn.co/mp3-preview/52ff64f9703000d1da88d8209b6b7592d543f460?cid=edb57c3a549e479c9a60b6c179787be9
+Album: Baby Blue
+
+Artist: King Krule
+Song Name: Baby Blue
+Preview Link: https://p.scdn.co/mp3-preview/3c189809fe2aad2ac9933c752c7fdccf52a8978b?cid=edb57c3a549e479c9a60b6c179787be9
+Album: 6 Feet Beneath The Moon
+
+Artist: Badfinger
+Song Name: Baby Blue - Remastered 2010
+Preview Link: null
+Album: Straight Up (Remastered 2010 / Deluxe Edition)
+
+Artist: George Strait
+Song Name: Baby Blue
+Preview Link: null
+Album: If You Ain't Lovin', You Ain't Livin'
+
+
+--------------------------------------------------
+[06/25/2020] concert-this billy joel
+--------------------------------------------------
+Venue: Comerica Park
+Location: Detroit, MI, United States
+Date of Event: 07/10/2020
+
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date of Event: 07/23/2020
+
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date of Event: 08/03/2020
+
+Venue: New Era Field
+Location: Orchard Park, NY, United States
+Date of Event: 08/15/2020
+
+Venue: Fenway Park
+Location: Boston, MA, United States
+Date of Event: 08/28/2020
+
+Venue: Great American Ballpark
+Location: Cincinnati, OH, United States
+Date of Event: 09/11/2020
+
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date of Event: 09/26/2020
+
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date of Event: 10/11/2020
+
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date of Event: 11/13/2020
+
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date of Event: 12/20/2020
+
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date of Event: 01/13/2021
+
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date of Event: 02/03/2021
+
+Venue: Bank of America Stadium
+Location: Charlotte, NC, United States
+Date of Event: 04/17/2021
+
+Venue: Notre Dame Stadium
+Location: South Bend, IN, United States
+Date of Event: 06/26/2021
+
+Venue: Comerica Park
+Location: Detroit, MI, United States
+Date of Event: 07/09/2021
+
+
+--------------------------------------------------
+[06/25/2020] do-what-it-says  "twister"
+
+--------------------------------------------------
+Title: Twister
+Year: 1996
+IMDB Rating: 6.4/10
+Rotten Tomatoes Rating: 57%
+Country: USA
+Language: English
+Plot: Bill and Jo Harding, advanced storm chasers on the brink of divorce, must join together to create an advanced weather alert system by putting themselves in the cross-hairs of extremely violent tornadoes.
+Actors: Helen Hunt, Bill Paxton, Cary Elwes, Jami Gertz
+
