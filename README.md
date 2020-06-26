@@ -67,8 +67,7 @@ LIRI is run in the command line.
         If no argument (Artist or Band) is entered, it will search using "George Strait" as a default value
         Save command and argument to addToFile method.
         Screenshot:
-
-    node liri.js movie-this <movie name here> runs the movieThis method using Axios and OMDB API.
+  ![Image of concert-this](https://katherinersl.github.com/images/concert-this1.png)
 
         If a movie is entered, it returns the movie title, year, IMDB Rating, RT rating, country, language, plot, and actors.
         If no movie is entered, a default value of "Mr Nobody" is used.
