@@ -75,6 +75,8 @@ LIRI is run in the command line.
         Save command and argument to addToFile method.
         Screenshot:
 
+        ![Image of concert-this](https://katherinersl.github.com/images/concert-this1.png)
+
     node liri.js do-what-it-says runs the doWhatItSays method using the FS module to get a string from the random.txt file.
 
         The "," in the string will be used as a delimiter using `.split(",") and saves the string as two items in an array.
