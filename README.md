@@ -85,7 +85,7 @@ When running Node with following strings, Node takes the strings as an array, wi
         - If no argument (Artist or Band) is entered, it will search using "George Strait" as a default value.
         - Save command and argument to addToFile method.
         Screenshot:
-  <image src="https://user-images.githubusercontent.com/62124706/85910163-6e109700-b7eb-11ea-815a-ebe7a2254f65.PNG"
+  <image src="https://user-images.githubusercontent.com/62124706/85910053-d6ab4400-b7ea-11ea-8d4f-1d9f5a8381f0.PNG"
   
   *node liri.js spotify-this-song <song name here> runs the spotifyThis method.*
         
@@ -94,7 +94,7 @@ When running Node with following strings, Node takes the strings as an array, wi
         - Save command and argument to addToFile method.
         Screenshot:
         
- <image src="(https://github.com/KATHERINERSL/liri-node-app/issues/3#issue-646571361"
+ <image src="https://user-images.githubusercontent.com/62124706/85910118-3570bd80-b7eb-11ea-80aa-e13c16c32d94.PNG"
 
    *node liri.js movie-this <movie name here> runs the movieThis method using Axios and OMDB API.*
     
@@ -103,7 +103,7 @@ When running Node with following strings, Node takes the strings as an array, wi
         - Save command and argument to addToFile method.
          Screenshot:
 
-   <image src="https://github.com/KATHERINERSL/liri-node-app/issues/4#issue-646571696"
+   <image src="https://user-images.githubusercontent.com/62124706/85910163-6e109700-b7eb-11ea-815a-ebe7a2254f65.PNG"
         
         
 
@@ -115,11 +115,11 @@ When running Node with following strings, Node takes the strings as an array, wi
         - Save command and argument to addToFile method.
         Screenshot:
 
-   <image src="https://github.com/KATHERINERSL/liri-node-app/issues/5#issue-646572145"
-         
-   <image src="https://github.com/KATHERINERSL/liri-node-app/issues/6#issue-646572380"
-          
    <image src="https://user-images.githubusercontent.com/62124706/85910354-51289380-b7ec-11ea-9119-b5d9949676d2.PNG"
+         
+   <image src="https://user-images.githubusercontent.com/62124706/85910278-eecf9300-b7eb-11ea-99bf-3fe2662a888c.PNG"
+          
+   <image src=https://user-images.githubusercontent.com/62124706/85910222-b8921380-b7eb-11ea-816b-9a9b8b46ad7b.PNG"
          
          
     *The addToFile method uses the FS module to append a string to the log.txt file.*
