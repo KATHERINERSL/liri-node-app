@@ -85,7 +85,7 @@ When running Node with following strings, Node takes the strings as an array, wi
         - If no argument (Artist or Band) is entered, it will search using "George Strait" as a default value.
         - Save command and argument to addToFile method.
         Screenshot:
-  ![concert-this Screenshot](https://github.com/KATHERINERSL/liri-node-app/issues/2#issue-646570823)
+  <image src="https://github.com/KATHERINERSL/liri-node-app/issues/2#issue-646570823"
   
   *node liri.js spotify-this-song <song name here> runs the spotifyThis method.*
         
@@ -94,7 +94,7 @@ When running Node with following strings, Node takes the strings as an array, wi
         - Save command and argument to addToFile method.
         Screenshot:
         
-    ![Spotify-This Screenshot](https://github.com/KATHERINERSL/liri-node-app/issues/3#issue-646571361)
+ <image src="(https://github.com/KATHERINERSL/liri-node-app/issues/3#issue-646571361"
 
    *node liri.js movie-this <movie name here> runs the movieThis method using Axios and OMDB API.*
     
@@ -103,7 +103,7 @@ When running Node with following strings, Node takes the strings as an array, wi
         - Save command and argument to addToFile method.
          Screenshot:
 
-        ![Movie-This Screenshot](https://github.com/KATHERINERSL/liri-node-app/issues/4#issue-646571696)
+   <image src="https://github.com/KATHERINERSL/liri-node-app/issues/4#issue-646571696"
         
         
 
@@ -115,11 +115,11 @@ When running Node with following strings, Node takes the strings as an array, wi
         - Save command and argument to addToFile method.
         Screenshot:
 
-         ![Do-what-It-Says_Concert](https://github.com/KATHERINERSL/liri-node-app/issues/5#issue-646572145)
+   <image src="https://github.com/KATHERINERSL/liri-node-app/issues/5#issue-646572145"
          
-         ![Do-what-It-Says_Artist](https://github.com/KATHERINERSL/liri-node-app/issues/6#issue-646572380)
+   <image src="https://github.com/KATHERINERSL/liri-node-app/issues/6#issue-646572380"
           
-         ![Do-what-It-Says_Movie](https://github.com/KATHERINERSL/liri-node-app/issues/7#issue-646572597)
+   <image src="https://user-images.githubusercontent.com/62124706/85910354-51289380-b7ec-11ea-9119-b5d9949676d2.PNG"
          
          
     *The addToFile method uses the FS module to append a string to the log.txt file.*
@@ -130,9 +130,9 @@ When running Node with following strings, Node takes the strings as an array, wi
         - Used "Concert-This" screenshot for Moment.
            Screenshot:
         
-            ![Concert-this Screenshots](https://github.com/KATHERINERSL/liri-node-app/issues/9#issue-646576406)
+   <image src="https://user-images.githubusercontent.com/62124706/85910847-225fec80-b7ef-11ea-8ab4-a120bb8baac0.PNG" />
 
       *Log.txt file:*
           log.txt screenshot
           
-           ![Log.txt Screenshots](https://github.com/KATHERINERSL/liri-node-app/issues/8#issue-646573299)
+   <image src="https://user-images.githubusercontent.com/62124706/85910401-8d5bf400-b7ec-11ea-8047-79d86d4a0507.PNG" />
