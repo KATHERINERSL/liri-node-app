@@ -85,7 +85,7 @@ When running Node with following strings, Node takes the strings as an array, wi
         - If no argument (Artist or Band) is entered, it will search using "George Strait" as a default value.
         - Save command and argument to addToFile method.
         Screenshot:
-  <image src="https://github.com/KATHERINERSL/liri-node-app/issues/2#issue-646570823"
+  <image src="https://user-images.githubusercontent.com/62124706/85910163-6e109700-b7eb-11ea-815a-ebe7a2254f65.PNG"
   
   *node liri.js spotify-this-song <song name here> runs the spotifyThis method.*
         
